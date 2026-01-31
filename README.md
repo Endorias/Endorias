@@ -1,6 +1,7 @@
 # 💫 About Me:
 A Diploma Engineer looking for some work. 
 
+Check out my most recent project that I am working on: https://github.com/Endorias/Home-Camera-dashboard-project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/max-tulus/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxtulus@gmail.com) 
