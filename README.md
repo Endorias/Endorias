@@ -13,5 +13,7 @@ Check out my most recent project that I am working on: https://github.com/Endori
 ![](https://nirzak-streak-stats.vercel.app/?user=Endorias&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Endorias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![GitBlend Contributions](https://gitblend.com/api/contributions?username=max.tulus@piano.io)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Endorias&icon=0&color=0)](https://visitcount.itsvg.in)
